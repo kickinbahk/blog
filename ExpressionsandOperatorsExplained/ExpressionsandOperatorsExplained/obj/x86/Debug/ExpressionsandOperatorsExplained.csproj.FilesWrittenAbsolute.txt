@@ -1,0 +1,5 @@
+/Users/josiahmory/Projects/ExpressionsandOperatorsExplained/ExpressionsandOperatorsExplained/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josiahmory/Projects/ExpressionsandOperatorsExplained/ExpressionsandOperatorsExplained/bin/Debug/ExpressionsandOperatorsExplained.exe.mdb
+/Users/josiahmory/Projects/ExpressionsandOperatorsExplained/ExpressionsandOperatorsExplained/bin/Debug/ExpressionsandOperatorsExplained.exe
+/Users/josiahmory/Projects/ExpressionsandOperatorsExplained/ExpressionsandOperatorsExplained/obj/x86/Debug/ExpressionsandOperatorsExplained.exe
+/Users/josiahmory/Projects/ExpressionsandOperatorsExplained/ExpressionsandOperatorsExplained/obj/x86/Debug/ExpressionsandOperatorsExplained.exe.mdb

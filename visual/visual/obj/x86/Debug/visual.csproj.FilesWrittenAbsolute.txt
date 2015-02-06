@@ -1,0 +1,6 @@
+/Users/josiahmory/Projects/visual/visual/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josiahmory/Projects/visual/visual/obj/x86/Debug/visual.gtk-gui.gui.stetic
+/Users/josiahmory/Projects/visual/visual/bin/Debug/visual.exe.mdb
+/Users/josiahmory/Projects/visual/visual/bin/Debug/visual.exe
+/Users/josiahmory/Projects/visual/visual/obj/x86/Debug/visual.exe
+/Users/josiahmory/Projects/visual/visual/obj/x86/Debug/visual.exe.mdb

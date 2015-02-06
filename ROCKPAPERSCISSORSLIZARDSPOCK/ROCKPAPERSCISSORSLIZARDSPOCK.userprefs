@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="ROCKPAPERSCISSORSLIZARDSPOCK/ROCKPAPERSCISSORSLIZARDSPOCK.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ROCKPAPERSCISSORSLIZARDSPOCK/Program.cs">
+    <Files>
+      <File FileName="ROCKPAPERSCISSORSLIZARDSPOCK/Program.cs" Line="8" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

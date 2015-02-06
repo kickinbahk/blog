@@ -1,0 +1,5 @@
+/Users/josiahmory/Projects/GuessingGame/GuessingGame/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josiahmory/Projects/GuessingGame/GuessingGame/bin/Debug/GuessingGame.exe.mdb
+/Users/josiahmory/Projects/GuessingGame/GuessingGame/bin/Debug/GuessingGame.exe
+/Users/josiahmory/Projects/GuessingGame/GuessingGame/obj/x86/Debug/GuessingGame.exe
+/Users/josiahmory/Projects/GuessingGame/GuessingGame/obj/x86/Debug/GuessingGame.exe.mdb

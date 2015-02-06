@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoggingPolymorphicInterface/ILoggerFactory.cs">
+    <Files>
+      <File FileName="LoggingPolymorphicInterface/Program.cs" Line="17" Column="17" />
+      <File FileName="LoggingPolymorphicInterface/ILogger.cs" Line="35" Column="35" />
+      <File FileName="LoggingPolymorphicInterface/ConsoleLogger.cs" Line="32" Column="32" />
+      <File FileName="LoggingPolymorphicInterface/FileLogger.cs" Line="24" Column="24" />
+      <File FileName="LoggingPolymorphicInterface/ILoggerFactory.cs" Line="21" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

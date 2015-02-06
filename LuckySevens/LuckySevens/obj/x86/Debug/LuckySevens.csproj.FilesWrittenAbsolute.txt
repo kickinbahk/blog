@@ -1,0 +1,5 @@
+/Users/josiahmory/Projects/LuckySevens/LuckySevens/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josiahmory/Projects/LuckySevens/LuckySevens/bin/Debug/LuckySevens.exe.mdb
+/Users/josiahmory/Projects/LuckySevens/LuckySevens/bin/Debug/LuckySevens.exe
+/Users/josiahmory/Projects/LuckySevens/LuckySevens/obj/x86/Debug/LuckySevens.exe
+/Users/josiahmory/Projects/LuckySevens/LuckySevens/obj/x86/Debug/LuckySevens.exe.mdb

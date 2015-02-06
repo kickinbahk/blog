@@ -1,0 +1,5 @@
+/Users/josiahmory/Projects/Commentsandformattingstrings/Commentsandformattingstrings/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josiahmory/Projects/Commentsandformattingstrings/Commentsandformattingstrings/bin/Debug/Commentsandformattingstrings.exe.mdb
+/Users/josiahmory/Projects/Commentsandformattingstrings/Commentsandformattingstrings/bin/Debug/Commentsandformattingstrings.exe
+/Users/josiahmory/Projects/Commentsandformattingstrings/Commentsandformattingstrings/obj/x86/Debug/Commentsandformattingstrings.exe
+/Users/josiahmory/Projects/Commentsandformattingstrings/Commentsandformattingstrings/obj/x86/Debug/Commentsandformattingstrings.exe.mdb

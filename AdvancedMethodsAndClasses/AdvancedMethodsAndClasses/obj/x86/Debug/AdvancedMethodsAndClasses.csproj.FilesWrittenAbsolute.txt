@@ -1,0 +1,5 @@
+/Users/josiahmory/Projects/AdvancedMethodsAndClasses/AdvancedMethodsAndClasses/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josiahmory/Projects/AdvancedMethodsAndClasses/AdvancedMethodsAndClasses/bin/Debug/AdvancedMethodsAndClasses.exe.mdb
+/Users/josiahmory/Projects/AdvancedMethodsAndClasses/AdvancedMethodsAndClasses/bin/Debug/AdvancedMethodsAndClasses.exe
+/Users/josiahmory/Projects/AdvancedMethodsAndClasses/AdvancedMethodsAndClasses/obj/x86/Debug/AdvancedMethodsAndClasses.exe
+/Users/josiahmory/Projects/AdvancedMethodsAndClasses/AdvancedMethodsAndClasses/obj/x86/Debug/AdvancedMethodsAndClasses.exe.mdb

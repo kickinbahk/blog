@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipACoin", "FlipACoin\FlipACoin.csproj", "{2FE88CEE-160F-4935-A0E8-D642F31F51FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE88CEE-160F-4935-A0E8-D642F31F51FE}.Debug|x86.ActiveCfg = Debug|x86
+		{2FE88CEE-160F-4935-A0E8-D642F31F51FE}.Debug|x86.Build.0 = Debug|x86
+		{2FE88CEE-160F-4935-A0E8-D642F31F51FE}.Release|x86.ActiveCfg = Release|x86
+		{2FE88CEE-160F-4935-A0E8-D642F31F51FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FlipACoin\FlipACoin.csproj
+	EndGlobalSection
+EndGlobal

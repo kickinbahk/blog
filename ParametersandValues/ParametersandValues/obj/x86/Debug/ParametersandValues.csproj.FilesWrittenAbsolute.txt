@@ -1,0 +1,5 @@
+/Users/josiahmory/Projects/ParametersandValues/ParametersandValues/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josiahmory/Projects/ParametersandValues/ParametersandValues/bin/Debug/ParametersandValues.exe.mdb
+/Users/josiahmory/Projects/ParametersandValues/ParametersandValues/bin/Debug/ParametersandValues.exe
+/Users/josiahmory/Projects/ParametersandValues/ParametersandValues/obj/x86/Debug/ParametersandValues.exe
+/Users/josiahmory/Projects/ParametersandValues/ParametersandValues/obj/x86/Debug/ParametersandValues.exe.mdb

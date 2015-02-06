@@ -1,0 +1,5 @@
+/Users/josiahmory/Projects/MultiplicationTable/MultiplicationTable/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josiahmory/Projects/MultiplicationTable/MultiplicationTable/bin/Debug/MultiplicationTable.exe.mdb
+/Users/josiahmory/Projects/MultiplicationTable/MultiplicationTable/bin/Debug/MultiplicationTable.exe
+/Users/josiahmory/Projects/MultiplicationTable/MultiplicationTable/obj/x86/Debug/MultiplicationTable.exe
+/Users/josiahmory/Projects/MultiplicationTable/MultiplicationTable/obj/x86/Debug/MultiplicationTable.exe.mdb

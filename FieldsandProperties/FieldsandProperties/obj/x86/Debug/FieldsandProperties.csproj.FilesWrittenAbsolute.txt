@@ -1,0 +1,5 @@
+/Users/josiahmory/Projects/FieldsandProperties/FieldsandProperties/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josiahmory/Projects/FieldsandProperties/FieldsandProperties/bin/Debug/FieldsandProperties.exe.mdb
+/Users/josiahmory/Projects/FieldsandProperties/FieldsandProperties/bin/Debug/FieldsandProperties.exe
+/Users/josiahmory/Projects/FieldsandProperties/FieldsandProperties/obj/x86/Debug/FieldsandProperties.exe
+/Users/josiahmory/Projects/FieldsandProperties/FieldsandProperties/obj/x86/Debug/FieldsandProperties.exe.mdb

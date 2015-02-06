@@ -1,0 +1,5 @@
+/Users/josiahmory/Projects/Coding101-1/Coding101-1/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/josiahmory/Projects/Coding101-1/Coding101-1/bin/Debug/Coding101-1.exe.mdb
+/Users/josiahmory/Projects/Coding101-1/Coding101-1/bin/Debug/Coding101-1.exe
+/Users/josiahmory/Projects/Coding101-1/Coding101-1/obj/x86/Debug/Coding101-1.exe
+/Users/josiahmory/Projects/Coding101-1/Coding101-1/obj/x86/Debug/Coding101-1.exe.mdb

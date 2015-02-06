@@ -1,0 +1,5 @@
+/Users/josiahmory/Projects/Methods/Methods/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/josiahmory/Projects/Methods/Methods/bin/Debug/Methods.exe.mdb
+/Users/josiahmory/Projects/Methods/Methods/bin/Debug/Methods.exe
+/Users/josiahmory/Projects/Methods/Methods/obj/x86/Debug/Methods.exe
+/Users/josiahmory/Projects/Methods/Methods/obj/x86/Debug/Methods.exe.mdb

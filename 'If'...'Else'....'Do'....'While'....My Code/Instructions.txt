@@ -1,0 +1,11 @@
+Here are the files related to this blog post. 
+
+You should be able to just drop the code into Visual Studio or Xamarin. 
+
+Make sure to copy everything in mine and overwrite everything in your new file! 
+
+The .exe in each folder is the actual program of the code. 
+
+Enjoy!!!
+
+kick

@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConstructorsandOverflowMethods/Calculator.cs">
+    <Files>
+      <File FileName="ConstructorsandOverflowMethods/Program.cs" Line="4" Column="4" />
+      <File FileName="ConstructorsandOverflowMethods/Rectangle.cs" Line="30" Column="30" />
+      <File FileName="ConstructorsandOverflowMethods/Calculator.cs" Line="112" Column="112" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

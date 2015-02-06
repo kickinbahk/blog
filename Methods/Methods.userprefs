@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Program.cs">
+    <Files>
+      <File FileName="Methods/Program.cs" Line="1" Column="1" />
+      <File FileName="Methods/Messenger.cs" Line="2" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True">
+          <Node name="Methods" expanded="True">
+            <Node name="Methods" expanded="True">
+              <Node name="Methods.MainClass" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
